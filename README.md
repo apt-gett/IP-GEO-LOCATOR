@@ -4,3 +4,5 @@ This is a tool created for easy access to different types of port scans, to scan
 - git clone https://github.com/apt-gett/IP-GEO-LOCATOR.git
 - chmod +x (or chmod 777) geolocation.sh
 - ./geoloaction.sh 
+
+![Alt text](/home/apt-get/Desktop/ssforgit1.png) 
