@@ -5,4 +5,4 @@ This is a tool created for easy access to different types of port scans, to scan
 - chmod +x (or chmod 777) geolocation.sh
 - ./geoloaction.sh 
 
-![IP-GEOLOCATOR](https://github.com/home/apt-get/Desktop/ssforgit1.png) 
+![IP-GEOLOCATOR](https://raw.github.com/apt-get/IP-GEO-LOCATOR/master/home/apt-get/Desktop/ssforgit1.png) 
