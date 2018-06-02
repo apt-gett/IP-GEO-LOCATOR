@@ -106,14 +106,14 @@ function about() {
   echo -e "$COL_YELLOW --Whois$COL_RESET - Give Whois info on Inputted IP "
   echo -e "$COL_YELLOW --Port scanner$COL_RESET - Scans for open ports / Bypass Firewall "
   echo -e "$COL_YELLOW --IOT BOTNET SCANNER$COL_RESET - Scans for ports that botnets can exploit "
-  echo -e "$COL_YELLOW --Acive Hosts scanner$COL_RESET - Scans for active hosts on network "
+  echo -e "$COL_YELLOW --Active Hosts scanner$COL_RESET - Scans for active hosts on network "
   echo ""
 }
 function hlp() {
   echo ""
   echo " --about - Shows information about what each option does "
   echo ""
-  echo " --about[option] - Shows information on a specfic tool instead of them all "
+  echo " --about[option] - Shows information on a specific tool instead of them all "
   echo ""
   echo "EXAMPLES:"
   echo " ex.--abouttwo - (IP Look-up - Gives Look-up info on Inputted IP)"
