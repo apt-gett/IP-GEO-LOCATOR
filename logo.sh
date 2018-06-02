@@ -10,7 +10,7 @@ COL_BLUE=$ESC_SEQ"34;01m"
 COL_MAGENTA=$ESC_SEQ"35;01m"
 COL_CYAN=$ESC_SEQ"36;01m"
 
-me="apt-get"
+me="xss-ven0m"
 
 
 echo -e "   $COL_CYAN ._____ _____     _____ ______ ____         _      ____   _____       _______ ____  _____. $COL_RESET"
