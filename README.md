@@ -5,12 +5,11 @@ This is a tool created for easy access for different types of port scans, to sca
 - chmod +x (or chmod 777) geolocation.sh
 - ./geoloaction.sh 
 
-[![ssforgit1.png](https://s19.postimg.org/dyl8zbc5v/ssforgit1.png)](https://postimg.org/image/6vddjp6q7/)
+[![image.png](https://i.postimg.cc/tCfXxZ5g/image.png)](https://postimg.cc/3dX5MwzM)
 
 # Whois
 
-[![ssforgit2.png](https://s19.postimg.org/kqbo1s3lv/ssforgit2.png)](https://postimg.org/image/svtpzxrun/)
-
+[![image.png](https://i.postimg.cc/MTG45tZJ/image.png)](https://postimg.cc/2qP28QB0)
 # Port scanner
 
 [![ssforgit3.png](https://s19.postimg.org/vd5h77r6r/ssforgit3.png)](https://postimg.org/image/6jvx6k867/)
